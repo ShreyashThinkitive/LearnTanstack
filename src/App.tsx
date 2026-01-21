@@ -1,10 +1,11 @@
+import AllPost from "./components/ShowAllPost"
 
 
 function App() {
 
   return (
     <>
-      <h1>Hello tanstack</h1>
+      <AllPost></AllPost>
     </>
   )
 }
